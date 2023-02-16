@@ -12,5 +12,5 @@ This assignment here covers how the R programming language has built in data exp
 
 ## Portfolio Component 2: Linear Models
 
-This assignment covers how to use Linear and Logistic Regression in R. I worked on this Portfolio Component with Alejo Vinluan(ABV210001). We implemented the use of various R functions to explore massive datasets and find pattersn for predictions and to see if the patterns were strong. You can see the Regression Notbook PDF [here](Regression.pdf) and the CLassification Notebook PDF [here](Classification.pdf).
+This assignment covers how to use Linear and Logistic Regression in R. I worked on this Portfolio Component with Alejo Vinluan(ABV210001). We implemented the use of various R functions to explore massive datasets and find pattersn for predictions and to see if the patterns were strong. You can see the Regression Notebook PDF [here](Regression.pdf) and the CLassification Notebook PDF [here](Classification.pdf).
 
