@@ -14,3 +14,7 @@ This assignment here covers how the R programming language has built in data exp
 
 This assignment covers how to use Linear and Logistic Regression in R. I worked on this Portfolio Component with Alejo Vinluan(ABV210001). We implemented the use of various R functions to explore massive datasets and find pattersn for predictions and to see if the patterns were strong. You can see the Regression Notebook PDF [here](Regression.pdf) and the CLassification Notebook PDF [here](Classification.pdf).
 
+## Portfolio Component 3: ML Algorithms from Scratch 
+
+This assignment covers how much more efficient the Logistic Regression and Naïve Bayes functions were in R compared to C++. I worked on this Portfolio Component with Alejo Vinluan(ABV210001). We implemented the Logistic Regression and Naïve Bayes functions into C++ and could visibly see how much harder it is to code pre-existing R functions. You can see the Document PDF [here](Regression.pdf), the Logistic Regression C++ code [here](CSMLComp1.cpp), the Naïve Bayes C++ code [here](CSMLComp1.cpp), and the dataset used [here](CSMLComp1.cpp).
+
