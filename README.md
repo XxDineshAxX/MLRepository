@@ -18,3 +18,6 @@ This assignment covers how to use Linear and Logistic Regression in R. I worked 
 
 This assignment covers how much more efficient the Logistic Regression and Naïve Bayes functions were in R compared to C++. I worked on this Portfolio Component with Alejo Vinluan(ABV210001). We implemented the Logistic Regression and Naïve Bayes functions into C++ and could visibly see how much harder it is to code pre-existing R functions. You can see the Document PDF [here](MLAlgosFromScratch.pdf), the Logistic Regression C++ code [here](MLAlgosFromScratch.cpp), the Naïve Bayes C++ code [here](naive_bayes.cpp), and the dataset used [here](titanic_project.csv).
 
+## Portfolio Component 4: Searching for Similarity
+
+This assignment deals with similarity algorithms such as using kNN and decision trees along with other common regression methods to find patterns and relationships. Listed below are the components of this portfolio component and the respective links. [Narrative Document](CS_4375_Ensemble_Assignment.pdf), [Notebook 1 Regression](SimilarityRegression.pdf), [Notebook 2 Classification](wxa200000_similarity_algorithms.pdf), [Notebook 3 Clustering](Notebook_3_Clustering.pdf), and [Notebook 4 Dimensionality reduction](PCA_LDA.pdf).    
