@@ -20,4 +20,8 @@ This assignment covers how much more efficient the Logistic Regression and Naïv
 
 ## Portfolio Component 4: Searching for Similarity
 
-This assignment deals with similarity algorithms such as using kNN and decision trees along with other common regression methods to find patterns and relationships. Listed here are the components of this portfolio component and the respective links. [Narrative Document](CS_4375_Ensemble_Assignment.pdf), [Notebook 1 Regression](SimilarityRegression.pdf), [Notebook 2 Classification](wxa200000_similarity_algorithms.pdf), [Notebook 3 Clustering](Notebook_3_Clustering.pdf), and [Notebook 4 Dimensionality reduction](PCA_LDA.pdf).    
+This assignment deals with similarity algorithms such as using kNN and decision trees along with other common regression methods to find patterns and relationships. Listed here are the components of this portfolio component and the respective links. [Narrative Document](CS_4375_Ensemble_Assignment.pdf), [Notebook 1 Regression](SimilarityRegression.pdf), [Notebook 2 Classification](wxa200000_similarity_algorithms.pdf), [Notebook 3 Clustering](Notebook_3_Clustering.pdf), and [Notebook 4 Dimensionality reduction](PCA_LDA.pdf). 
+
+## Portfolio Component 5: ML with sklearn
+
+This assignment was used to gain experience with ML in sklearn to help show how it works comapared to R. This assignment also goes over how Neural Networks work compared to other algorithms. You can see the ML with sklearn PDF [here](MLWithsklearn.ipynb - Colaboratory.pdf).     
