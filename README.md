@@ -24,4 +24,4 @@ This assignment deals with similarity algorithms such as using kNN and decision 
 
 ## Portfolio Component 5: ML with sklearn
 
-This assignment was used to gain experience with ML in sklearn to help show how it works comapared to R. This assignment also goes over how Neural Networks work compared to other algorithms. You can see the ML with sklearn PDF [here](MLWithsklearn.ipynb - Colaboratory.pdf).     
+This assignment was used to gain experience with ML in sklearn to help show how it works comapared to R. This assignment also goes over how Neural Networks work compared to other algorithms. You can see the ML with sklearn PDF [here](MLWithsklearn.pdf).     
