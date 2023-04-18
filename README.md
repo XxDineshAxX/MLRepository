@@ -25,3 +25,7 @@ This assignment deals with similarity algorithms such as using kNN and decision 
 ## Portfolio Component 5: ML with sklearn
 
 This assignment was used to gain experience with ML in sklearn to help show how it works comapared to R. This assignment also goes over how Neural Networks work compared to other algorithms. You can see the ML with sklearn PDF [here](MLWithsklearn.pdf).     
+
+## Portfolio Component 6: Image Classification with DL
+
+This assignment covers the concepts of deep learning by using image classification to read into data and analyze patterns. I worked on this Portfolio Component with Alejo Vinluan(ABV210001). We used tools like tensorflow and sklearn to create models and evaluate results to deduce the accuracry of the various models such as the CNN architecture model. All in all this componenet allowed us to explore past just csv files and look into how machine learning can evaluate imagery. You can see the Document PDF [here](ImageClassification_abv210001_dxa190032.pdf).
