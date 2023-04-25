@@ -3,7 +3,7 @@ This is my portfolio for my Machine Learning assignments.
 
 ## Technical Skills
 
-Throughout this portfolio, many technical skills were practiced and improved upon to help produce the best results. A list of some of the technical skills and soft skills exercised are: critical/analytical thinking, leadership, communication, scheduling, flexibility, problem-solving, teamwork/cooperation, Data Analysis, Python, R, Markdown, and C++.  
+Throughout this portfolio, many technical skills were practiced and improved upon to help produce the best results. A list of some of the technical skills and soft skills exercised are: critical/analytical thinking, leadership, communication, scheduling, flexibility, problem-solving, teamwork/cooperation, Data Analysis, Python, R, Markdown, and C++. You can find my resume [here](Resume_DineshAngadipeta.pdf) that goes more into detail on these skills.  
 
 ## Overview of ML
 
